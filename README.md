@@ -5,8 +5,6 @@
 Exploratory Data Analysis (EDA) is essential for understanding new datasets, but it is often time-consuming and repetitive.
 DataExplain Agent is an AI-powered multi-agent system that automates EDA by analyzing uploaded datasets, generating visualizations, and producing clear, structured insights.
 
-This project was developed as part of the Google 5-Day AI Agents Intensive, demonstrating how multiple agents and tools can collaborate to produce meaningful, high-quality data analysis.
-
 ## 2. Problem Statement
 
 Many analysts and data scientists spend significant time:
